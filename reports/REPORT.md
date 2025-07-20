@@ -38,7 +38,7 @@
 
 **Equity Curve:**
 
-![Equity Curve](../data/orderbook_BTCUSDT_20250720_025109_bt_equity.png)
+![Equity Curve](../python/data/orderbook_BTCUSDT_20250720_025109_bt_equity.png)
 
 ---
 
